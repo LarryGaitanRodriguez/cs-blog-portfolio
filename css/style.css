@@ -25,9 +25,9 @@ img{
     width: 250px;
     height: 250px;
     position: relative;
-    bottom: 125px;
+    bottom: 75px;
     left: -100px;
-    background-color: grey;
+    background-color: lightgrey;
     padding: 10px;
     border-radius: 15px;
 }
@@ -39,6 +39,6 @@ img{
 .twitter-feed{
     margin: 1rem;
     padding: 1rem;
-    background-color: lightslategray;
+    background-color: lightgrey;
     border-radius: 15px;
 }
